@@ -1,0 +1,746 @@
+<!doctype html>
+<html class="no-js" lang="sv">
+
+    <head>
+        <meta charset="utf-8" />
+        <title>Västsvenska Squashförbundet</title>
+        <meta name="keywords" content="squash, spela squash, padel, sport, tennis, förening, förbund" />
+        <meta name="description" content="Västsvenska Squashförbundet jobbar med att hjälpa föreningar och spelare i Västsverige med att utveckla sin verksamhet och sig själva." />
+
+                    <link rel="icon" href="https://files.builder.misssite.com/7c/a0/7ca0bbfc-138b-436a-8ecc-d7529002613b.ico" type="image/x-icon" />
+            <link rel="SHORTCUT ICON" href="https://files.builder.misssite.com/7c/a0/7ca0bbfc-138b-436a-8ecc-d7529002613b.ico?v=1671304894" type="image/x-icon" />
+        
+        
+	<meta property="og:url" content="https://squashvast.se/våra-föreningar">
+	<meta property="og:title" content="Våra föreningar">
+	<meta property="og:description" content="Västsvenska Squashförbundet jobbar med att hjälpa föreningar och spelare i Västsverige med att utveckla sin verksamhet och sig själva.">
+	<meta property="og:site_name" content="Västsvenska Squashförbundet">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+<meta name="generator" content="BaseKit">
+
+
+    <link rel="canonical" href="våra-föreningar">
+
+
+            <link rel="stylesheet" href="https://files.builder.misssite.com/40/f7/40f78c98-b2b8-47ab-9b6c-fd3817966d25.css" class="js-initial-stylesheet">
+    
+<link rel="preload" href="https://55b558c7-resources.builder.misssite.com/86087e4ddb/compiled/photo-swipe.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+
+
+
+
+
+
+    
+            <style
+            class="js-webfont"
+            data-woff-cache="//55b558c7-resources.builder.misssite.com/86087e4ddb/seven/fonts/playfair_display.woff.json"
+            data-ttf-cache="//55b558c7-resources.builder.misssite.com/86087e4ddb/seven/fonts/playfair_display.ttf.json"
+            data-fallback-stylesheet="https://fonts.googleapis.com/css?family=Playfair+Display&amp;subset=latin"
+            data-name="playfair_display"
+        ></style>
+            <style
+            class="js-webfont"
+            data-woff-cache="//55b558c7-resources.builder.misssite.com/86087e4ddb/seven/fonts/rubik.woff.json"
+            data-ttf-cache="//55b558c7-resources.builder.misssite.com/86087e4ddb/seven/fonts/rubik.ttf.json"
+            data-fallback-stylesheet="https://fonts.googleapis.com/css?family=Rubik&amp;subset=latin"
+            data-name="rubik"
+        ></style>
+    <script nonce="">
+(function () {
+    var fontCollections,
+        fontsToCache,
+        fallback = 1;
+
+    function loadFontsAsynchronously() {
+        if (!fallback) {
+            return;
+        }
+
+        for (var i = 0, j = fontCollections.length; i < j; ++i) {
+            var link = document.createElement('link'),
+                head = document.getElementsByTagName('head')[0];
+            link.rel = 'stylesheet';
+            link.href = fontCollections[i].getAttribute('data-fallback-stylesheet');
+            head.appendChild(link);
+        }
+    }
+
+    function loadFontsFromStorage() {
+        var localKey = 'published',
+            format,
+            collection,
+            cachedFont;
+
+        if (!window.localStorage) {
+            return;
+        }
+
+        format = window.localStorage.getItem('bk.webfonts.format')
+        if (!format) {
+            return;
+        }
+
+        for (var i = 0, j = fontCollections.length; i < j; ++i) {
+            collection = fontCollections[i];
+            cacheKey = 'bk.webfonts.' + localKey + '.' + format + '.' + collection.getAttribute('data-name');
+            cachedFont = window.localStorage.getItem(cacheKey);
+            if (!cachedFont) {
+                continue;
+            }
+            collection.innerHTML = cachedFont;
+            collection.setAttribute('data-cache-full', 'data-cache-full');
+        }
+    }
+
+    if (!'querySelectorAll' in window) {
+        return;
+    }
+
+    fontCollections = document.head.querySelectorAll('.js-webfont');
+    if (!'localStorage' in window || !'addEventListener' in window) {
+        loadFontsAsynchronously();
+        return;
+    }
+
+    loadFontsFromStorage();
+}());
+</script>
+
+    
+    
+
+    <script nonce="">document.documentElement.classList.remove('no-js');</script>
+    </head>
+
+    <body class="" >
+
+        
+
+    
+    <section
+    id="page-zones__header"
+    class="bk-zone column "
+    data-uniqueid="BTLVOmWDtBrWNbD"
+    data-parentuniqueid=""
+>                
+<div
+    id="page-zones__header-widgets__61c08b50b88aa"
+    data-name="row"
+    class="widget widget--zone-widget js-widget style--light height--thin"
+    data-uniqueid="JIMS1ClRIVdqbue"
+    data-parentuniqueid="BTLVOmWDtBrWNbD"
+>
+
+    <div class="row  row--style-light    row--height-thin  row--vertical-align-center  row--background-type-color  row--width-contained row--navigation-2   js-row"
+        data-rowtype="navigation-2">
+    <div class="row--scroll-effect--container"></div>
+            <div class="row__container  js-row-container">
+                                    
+<div
+    id="page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c"
+    data-name="responsivecolumns"
+    class="widget widget--zone-widget js-widget"
+    data-uniqueid="meSxXpwGfF0lZLd"
+    data-parentuniqueid="JIMS1ClRIVdqbue"
+>
+
+    <div class="bk-responsivecolumns  responsivecolumns  widget__responsivecolumns  js-responsivecolumns">
+
+
+            
+                    <section
+    id="page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c0995"
+    class="bk-zone column columns-two-left"
+    data-uniqueid="mFT5a6QvVC1ht8P"
+    data-parentuniqueid="meSxXpwGfF0lZLd"
+>            
+<div
+    id="page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c0995-widgets__61c08b50c15e9"
+    data-name="companybrand"
+    class="widget widget--zone-widget js-widget"
+    data-uniqueid="IauyROchdEriLG8"
+    data-parentuniqueid="mFT5a6QvVC1ht8P"
+>
+
+        
+<div class="bk-branding  branding  widget__branding alignment--left">
+            <div class="branding__logo">
+            <a href="index.html" class="branding__link">
+                <img src="https://files.builder.misssite.com/ab/80/ab802724-11e8-4330-bb3c-ca4ef0a78645.png" class="branding__logo-image" alt=""  style="max-height:120px;">
+            </a>
+        </div>
+    </div>
+
+</div>
+    </section>
+            <section
+    id="page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c33f9"
+    class="bk-zone column columns-two-right"
+    data-uniqueid="qkoKYDVW8MaCBZS"
+    data-parentuniqueid="meSxXpwGfF0lZLd"
+>            
+<div
+    id="page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c33f9-widgets__61c08b50c4067"
+    data-name="extendednavigation"
+    class="widget widget--zone-widget js-widget"
+    data-uniqueid="bUJlRieoIlT3arO"
+    data-parentuniqueid="qkoKYDVW8MaCBZS"
+>
+
+    
+                                                                                        
+<div class="bk-extendednavigation  extendednavigation  widget__extendednavigation  align-right " itemscope itemtype="https://www.schema.org/SiteNavigationElement">
+
+    <button class="js-pull  navigation-toggle  icon  icon--bars  extendednavigation__navigation-toggle">
+        <span>Menu</span>
+    </button>
+
+<nav class="navigation-body  extendednavigation__navigation-body">
+
+        <ul class="navigation-list  extendednavigation__navigation-list  js-menu-list  itemcount-5">
+    
+                
+    
+                
+        
+        
+                <li class="navigation-item  extendednavigation__navigation-item page"  itemprop="name">
+
+            
+                        <a href="styrelsemöten" class="item-name  extendednavigation__item-name" itemprop="url">Årsmöte 2022</a>
+
+            
+            
+        </li>
+        
+    
+                
+        
+        
+                <li class="navigation-item  extendednavigation__navigation-item page"  itemprop="name">
+
+            
+                        <a href="regelkurs" class="item-name  extendednavigation__item-name" itemprop="url">Regelkurs</a>
+
+            
+            
+        </li>
+        
+    
+                
+        
+        
+                <li class="navigation-item  extendednavigation__navigation-item page"  itemprop="name">
+
+            
+                        <a href="squashregler" class="item-name  extendednavigation__item-name" itemprop="url">Squashregler</a>
+
+            
+            
+        </li>
+        
+    
+                
+        
+        
+                <li class="navigation-item  extendednavigation__navigation-item page  selected"  itemprop="name">
+
+            
+                        <a href="våra-föreningar" class="item-name  extendednavigation__item-name" itemprop="url">Våra föreningar</a>
+
+            
+            
+        </li>
+        
+    
+                
+        
+        
+                <li class="navigation-item  extendednavigation__navigation-item page"  itemprop="name">
+
+            
+                        <a href="kontakt" class="item-name  extendednavigation__item-name" itemprop="url">Kontakt</a>
+
+            
+            
+        </li>
+        
+    
+                
+        </ul>
+
+</nav>
+
+</div>
+
+</div>
+    </section>
+             
+</div>
+
+</div>
+                        </div>
+</div>
+
+</div>
+    </section>
+
+    <section
+    id="page-zones__main"
+    class="bk-zone column "
+    data-uniqueid="UQdSJEjH42xSjh1"
+    data-parentuniqueid=""
+>                
+<div
+    id="page-zones__main-widgets__61c0915837077"
+    data-name="row"
+    class="widget widget--zone-widget js-widget style--light height--default"
+    data-uniqueid="HQA4yYTrZ92TIYF"
+    data-parentuniqueid="UQdSJEjH42xSjh1"
+>
+
+    <div class="row  row--style-light    row--height-default  row--vertical-align-top  row--background-type-color  row--width-contained row--text-7a  row--layout-text-7a   js-row"
+        data-rowtype="text-7a">
+    <div class="row--scroll-effect--container"></div>
+            <div class="row__container  js-row-container">
+                                    
+<div
+    id="page-zones__main-widgets__61c0915837077-widgets__61c091584a256"
+    data-name="contentgroup"
+    class="widget widget--zone-widget js-widget"
+    data-uniqueid="s4g0LJJpxgIHhGU"
+    data-parentuniqueid="HQA4yYTrZ92TIYF"
+>
+
+    
+
+    
+
+
+    
+
+
+    
+
+
+
+
+<div
+    class="widget__contentgroup contentgroup  contentgroup--center contentgroup--regular "
+    >
+
+    <div class="contentgroup__content">
+        
+        <div class="contentgroup__body-wrapper">
+            <div class="contentgroup__text-wrapper">
+                
+                                    <p
+                        class="contentgroup__body  "
+                                                                    >
+                                                    Uppdateras snart.
+                                            </p>
+                            </div>
+
+                    </div>
+    </div>
+</div>
+
+</div>
+                        </div>
+</div>
+
+</div>
+    </section>
+
+    <section
+    id="page-zones__footer"
+    class="bk-zone column "
+    data-uniqueid="ysmv2M1JqgEbJOW"
+    data-parentuniqueid=""
+>                
+<div
+    id="page-zones__footer-widgets__61c08b50c5b41"
+    data-name="row"
+    class="widget widget--zone-widget js-widget style--dark height--thin"
+    data-uniqueid="q8GJWYZbbxowat3"
+    data-parentuniqueid="ysmv2M1JqgEbJOW"
+>
+
+    <div class="row  row--style-dark    row--height-thin  row--vertical-align-center  row--background-type-color  row--width-contained row--footer-5   js-row"
+        data-rowtype="footer-5">
+    <div class="row--scroll-effect--container"></div>
+            <div class="row__container  js-row-container">
+                                    
+<div
+    id="page-zones__footer-widgets__61c08b50c5b41-widgets__61c08b50cb36f"
+    data-name="contentgroup"
+    class="widget widget--zone-widget js-widget"
+    data-uniqueid="lhMOY8yC4akiiYR"
+    data-parentuniqueid="q8GJWYZbbxowat3"
+>
+
+    
+
+
+
+
+    
+
+
+    
+
+
+
+
+<div
+    class="widget__contentgroup contentgroup  contentgroup--center contentgroup--regular "
+    >
+
+    <div class="contentgroup__content">
+        
+        <div class="contentgroup__body-wrapper">
+            <div class="contentgroup__text-wrapper">
+                
+                                    <p
+                        class="contentgroup__body  "
+                                                                    >
+                                                    © All rights reserved
+                                            </p>
+                            </div>
+
+                    </div>
+    </div>
+</div>
+
+</div>
+                                                
+<div
+    id="page-zones__footer-widgets__61c08b50c5b41-widgets__61c08b50cec30"
+    data-name="policypages"
+    class="widget widget--zone-widget js-widget"
+    data-uniqueid="vvCAu6A3dIoNWqE"
+    data-parentuniqueid="q8GJWYZbbxowat3"
+>
+
+    
+</div>
+                        </div>
+</div>
+
+</div>
+    </section>
+
+
+
+
+        
+<div id="js-cookie-consent-event" style="display: none;"></div>
+
+
+<script nonce="">
+    App = {};
+    App.i18n = {};
+    App.nonce = '';
+    App.session = {
+        get: function(key)
+        {
+            var property = null;
+            if (this.data[key] !== null && this.data[key] !== undefined)
+            {
+                return this.data[key];
+            }
+            return property;
+        },
+        data: {
+            siteRef: 82679,
+            domain: 'builder.misshosting.com',
+            brandRef: '1',
+            assetBaseUrl: '//55b558c7-resources.builder.misssite.com/86087e4ddb',
+            languageCode: 'en',
+            pageRef: 771715,
+            pageLanguage: null,
+            protocol: 'https'
+        }
+    }
+
+    var Brand = Brand || {};
+    Brand.googleMapsEmbedKey = "AIzaSyC8V96sGgzrasorg2xPOlrlp-cpQFPLSxM";
+
+    if (window.Modernizr && window.Modernizr.touch) {
+        document.body.classList.add('touch');
+    }
+</script>
+
+<script nonce="">
+window["Server"] = {"app":{"resizerDomain":"resizer.builder.misssite.com","mode":"published","protocol":"https","maintenance":0,"deducedLocale":"en_GB"},"componentTree":{"page":{"page-zones__header":{"page-zones__header-widgets__61c08b50b88aa":{"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c":{"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c0995":{"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c0995-widgets__61c08b50c15e9":[]},"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c33f9":{"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c33f9-widgets__61c08b50c4067":[]}}}},"page-zones__main":{"page-zones__main-widgets__61c0915837077":{"page-zones__main-widgets__61c0915837077-widgets__61c091584a256":[]}},"page-zones__footer":{"page-zones__footer-widgets__61c08b50c5b41":{"page-zones__footer-widgets__61c08b50c5b41-widgets__61c08b50cb36f":[],"page-zones__footer-widgets__61c08b50c5b41-widgets__61c08b50cec30":[]}}}},"editorVersion":"ten","isFullVersionTenSite":true,"page":{"pageFeatures":{"features":[],"plugins":[]},"componentTree":{"page":{"page-zones__header":{"page-zones__header-widgets__61c08b50b88aa":{"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c":{"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c0995":{"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c0995-widgets__61c08b50c15e9":[]},"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c33f9":{"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c33f9-widgets__61c08b50c4067":[]}}}},"page-zones__main":{"page-zones__main-widgets__61c0915837077":{"page-zones__main-widgets__61c0915837077-widgets__61c091584a256":[]}},"page-zones__footer":{"page-zones__footer-widgets__61c08b50c5b41":{"page-zones__footer-widgets__61c08b50c5b41-widgets__61c08b50cb36f":[],"page-zones__footer-widgets__61c08b50c5b41-widgets__61c08b50cec30":[]}}}},"request":"v\u00e5ra-f\u00f6reningar","pageTree":[{"ref":"771704","request":"home","canonicalUrl":null,"title":"Start","seo_title":"Start","keywords":"","description":"","display_order":"1","type":"home","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2021-12-20 14:16:38","redirection":null,"priority":"1","changefreq":"monthly","can_publish":"1","headScript":"","bodyScript":"","headScriptOptions":[],"bodyScriptOptions":[],"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":"","password_enabled":false,"do_sub_page":"0","do_default":"0","templateType":"home","hiddenFromNavigation":"1","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null,"username":null},{"ref":"771713","request":"styrelsem\u00f6ten","canonicalUrl":null,"title":"\u00c5rsm\u00f6te 2022","seo_title":"\u00c5rsm\u00f6te 2022","keywords":"","description":"","display_order":"2","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2022-01-18 14:56:29","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"headScriptOptions":[],"bodyScriptOptions":[],"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":"","password_enabled":false,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null,"username":null},{"ref":"771718","request":"regelkurs","canonicalUrl":null,"title":"Regelkurs","seo_title":"","keywords":"","description":"","display_order":"3","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2022-01-18 14:59:27","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"headScriptOptions":[],"bodyScriptOptions":[],"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":"","password_enabled":false,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null,"username":null},{"ref":"771714","request":"squashregler","canonicalUrl":null,"title":"Squashregler","seo_title":"","keywords":null,"description":null,"display_order":"4","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2022-01-18 14:56:48","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"headScriptOptions":[],"bodyScriptOptions":[],"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":"","password_enabled":false,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null,"username":null},{"ref":"771715","request":"v\u00e5ra-f\u00f6reningar","canonicalUrl":null,"title":"V\u00e5ra f\u00f6reningar","seo_title":"","keywords":null,"description":null,"display_order":"5","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2022-01-18 14:56:48","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"headScriptOptions":[],"bodyScriptOptions":[],"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":"","password_enabled":false,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null,"username":null},{"ref":"771716","request":"kontakt","canonicalUrl":null,"title":"Kontakt","seo_title":"","keywords":null,"description":null,"display_order":"6","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2022-01-18 14:56:48","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"headScriptOptions":[],"bodyScriptOptions":[],"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":"","password_enabled":false,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null,"username":null},{"ref":"786577","request":"tack-f\u00f6r-din-anm\u00e4lan","canonicalUrl":null,"title":"Tack f\u00f6r din anm\u00e4lan!","seo_title":"","keywords":"","description":"","display_order":"7","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2022-01-18 14:39:26","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"headScriptOptions":[],"bodyScriptOptions":[],"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":"","password_enabled":false,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"1","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null,"username":null}],"backgroundClass":null,"customHead":[],"canonicalUrl":"https:\/\/squashvast.se\/v\u00e5ra-f\u00f6reningar","language":null,"isPluginPage":false,"isRTLLanguage":false,"ref":"771715","title":"V\u00e4stsvenska Squashf\u00f6rbundet","titleInNavAndWidget":"V\u00e5ra f\u00f6reningar","description":"V\u00e4stsvenska Squashf\u00f6rbundet jobbar med att hj\u00e4lpa f\u00f6reningar och spelare i V\u00e4stsverige med att utveckla sin verksamhet och sig sj\u00e4lva.","type":"page","keywords":"squash, spela squash, padel, sport, tennis, f\u00f6rening, f\u00f6rbund","seoLang":"sv","templateType":"default","headScript":"","bodyScript":"","headScriptOptions":[],"bodyScriptOptions":[]},"pageTree":[{"ref":"771704","request":"home","canonicalUrl":null,"title":"Start","seo_title":"Start","keywords":"","description":"","display_order":"1","type":"home","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2021-12-20 14:16:38","redirection":null,"priority":"1","changefreq":"monthly","can_publish":"1","headScript":"","bodyScript":"","headScriptOptions":[],"bodyScriptOptions":[],"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":"","password_enabled":false,"do_sub_page":"0","do_default":"0","templateType":"home","hiddenFromNavigation":"1","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null,"username":null},{"ref":"771713","request":"styrelsem\u00f6ten","canonicalUrl":null,"title":"\u00c5rsm\u00f6te 2022","seo_title":"\u00c5rsm\u00f6te 2022","keywords":"","description":"","display_order":"2","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2022-01-18 14:56:29","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"headScriptOptions":[],"bodyScriptOptions":[],"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":"","password_enabled":false,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null,"username":null},{"ref":"771718","request":"regelkurs","canonicalUrl":null,"title":"Regelkurs","seo_title":"","keywords":"","description":"","display_order":"3","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2022-01-18 14:59:27","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"headScriptOptions":[],"bodyScriptOptions":[],"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":"","password_enabled":false,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null,"username":null},{"ref":"771714","request":"squashregler","canonicalUrl":null,"title":"Squashregler","seo_title":"","keywords":null,"description":null,"display_order":"4","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2022-01-18 14:56:48","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"headScriptOptions":[],"bodyScriptOptions":[],"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":"","password_enabled":false,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null,"username":null},{"ref":"771715","request":"v\u00e5ra-f\u00f6reningar","canonicalUrl":null,"title":"V\u00e5ra f\u00f6reningar","seo_title":"","keywords":null,"description":null,"display_order":"5","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2022-01-18 14:56:48","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"headScriptOptions":[],"bodyScriptOptions":[],"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":"","password_enabled":false,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null,"username":null},{"ref":"771716","request":"kontakt","canonicalUrl":null,"title":"Kontakt","seo_title":"","keywords":null,"description":null,"display_order":"6","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2022-01-18 14:56:48","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"headScriptOptions":[],"bodyScriptOptions":[],"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":"","password_enabled":false,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null,"username":null},{"ref":"786577","request":"tack-f\u00f6r-din-anm\u00e4lan","canonicalUrl":null,"title":"Tack f\u00f6r din anm\u00e4lan!","seo_title":"","keywords":"","description":"","display_order":"7","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2022-01-18 14:39:26","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"headScriptOptions":[],"bodyScriptOptions":[],"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":"","password_enabled":false,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"1","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null,"username":null}],"requestBase":"","cookieWarningUrl":"","plugins":{"assets":{"images":{"2382351":{"ref":2382351,"url":"http:\/\/files.builder.misssite.com\/8d\/2a\/8d2a00f8-8976-4c02-9b24-08c4d32fd9d6.JPG","fileName":"DSC_2092.JPG","fileType":"image","fileSize":4994588,"title":null,"updated":{"date":"2021-12-20 14:01:47.000000","timezone_type":3,"timezone":"Europe\/London"},"description":null,"path":"8d\/2a\/8d2a00f8-8976-4c02-9b24-08c4d32fd9d6.JPG","imageWidth":6000,"imageHeight":4000,"deleted":false,"albumRef":null,"albumTitle":null,"providerRef":null,"compression":"complete","compressedUrl":"http:\/\/files.builder.misssite.com\/f1\/57\/f15779fc-525f-47c0-8abd-ac105869725b.jpg"},"2382372":{"ref":2382372,"url":"http:\/\/files.builder.misssite.com\/21\/bc\/21bce75a-1551-400f-a14e-f43e55de2c33.png","fileName":"Orange Triangel Detaljhandel Logga.png","fileType":"image","fileSize":17175,"title":null,"updated":{"date":"2021-12-20 14:13:52.000000","timezone_type":3,"timezone":"Europe\/London"},"description":null,"path":"21\/bc\/21bce75a-1551-400f-a14e-f43e55de2c33.png","imageWidth":500,"imageHeight":500,"deleted":false,"albumRef":null,"albumTitle":null,"providerRef":null,"compression":"none","compressedUrl":null},"2382373":{"ref":2382373,"url":"http:\/\/files.builder.misssite.com\/52\/74\/5274ddca-b070-4c84-b965-8f30c7c6bc57.png","fileName":"Orange Triangel Detaljhandel Logga (1).png","fileType":"image","fileSize":42984,"title":null,"updated":{"date":"2021-12-20 14:15:12.000000","timezone_type":3,"timezone":"Europe\/London"},"description":null,"path":"52\/74\/5274ddca-b070-4c84-b965-8f30c7c6bc57.png","imageWidth":1250,"imageHeight":1250,"deleted":false,"albumRef":null,"albumTitle":null,"providerRef":null,"compression":"none","compressedUrl":null},"2382374":{"ref":2382374,"url":"http:\/\/files.builder.misssite.com\/ab\/80\/ab802724-11e8-4330-bb3c-ca4ef0a78645.png","fileName":"Orange Triangel Detaljhandel Logga (1).png","fileType":"image","fileSize":40112,"title":null,"updated":{"date":"2021-12-20 14:16:14.000000","timezone_type":3,"timezone":"Europe\/London"},"description":null,"path":"ab\/80\/ab802724-11e8-4330-bb3c-ca4ef0a78645.png","imageWidth":1249,"imageHeight":390,"deleted":false,"albumRef":null,"albumTitle":null,"providerRef":null,"compression":"none","compressedUrl":null},"2382390":{"ref":2382390,"url":"http:\/\/files.builder.misssite.com\/af\/fe\/affe56bd-5336-43b6-a6fc-48ff0b803fc6.jpg","fileName":"JSM Linus Bergenh\u00f6k.jpg","fileType":"image","fileSize":228243,"title":null,"updated":{"date":"2021-12-20 14:29:16.000000","timezone_type":3,"timezone":"Europe\/London"},"description":null,"path":"af\/fe\/affe56bd-5336-43b6-a6fc-48ff0b803fc6.jpg","imageWidth":700,"imageHeight":467,"deleted":false,"albumRef":null,"albumTitle":null,"providerRef":null,"compression":"none","compressedUrl":null},"2382400":{"ref":2382400,"url":"http:\/\/files.builder.misssite.com\/82\/a3\/82a3a631-bae3-46a9-9651-3f68d7d47eeb.png","fileName":"Namnl\u00f6s design (12).png","fileType":"image","fileSize":1257951,"title":null,"updated":{"date":"2021-12-20 14:36:59.000000","timezone_type":3,"timezone":"Europe\/London"},"description":null,"path":"82\/a3\/82a3a631-bae3-46a9-9651-3f68d7d47eeb.png","imageWidth":1920,"imageHeight":1080,"deleted":false,"albumRef":null,"albumTitle":null,"providerRef":null,"compression":"none","compressedUrl":null},"2382403":{"ref":2382403,"url":"http:\/\/files.builder.misssite.com\/d5\/71\/d5710477-6445-4bdb-b2cc-bd7065b912bd.JPG","fileName":"DSC_9496-1.JPG","fileType":"image","fileSize":4913234,"title":null,"updated":{"date":"2021-12-20 14:37:47.000000","timezone_type":3,"timezone":"Europe\/London"},"description":null,"path":"d5\/71\/d5710477-6445-4bdb-b2cc-bd7065b912bd.JPG","imageWidth":4928,"imageHeight":3264,"deleted":false,"albumRef":null,"albumTitle":null,"providerRef":null,"compression":"complete","compressedUrl":"http:\/\/files.builder.misssite.com\/01\/6f\/016f9839-0dee-4659-9d73-cf943d5b2477.jpg"},"2438967":{"ref":2438967,"url":"http:\/\/files.builder.misssite.com\/fa\/ba\/faba3751-3897-4a43-8dfd-c4570153fa2e.JPG","fileName":"DSC_9039.JPG","fileType":"image","fileSize":2486527,"title":null,"updated":{"date":"2022-01-18 14:50:52.000000","timezone_type":3,"timezone":"Europe\/London"},"description":null,"path":"fa\/ba\/faba3751-3897-4a43-8dfd-c4570153fa2e.JPG","imageWidth":4928,"imageHeight":3264,"deleted":false,"albumRef":null,"albumTitle":null,"providerRef":null,"compression":"complete","compressedUrl":"http:\/\/files.builder.misssite.com\/d7\/4e\/d74e43f4-8014-42f6-b651-6f8588a28f1f.jpg"}},"albums":{"":[2382351,2382351,2382372,2382372,2382373,2382373,2382374,2382374,2382390,2382390,2382400,2382400,2382403,2382403,2438967,2438967]}}},"desktopSite":{"protocol":"https","primaryDomain":{"domainName":"squashvast.se"}},"siteLanguages":null,"siteDefaultLanguage":null,"siteLanguageMenuSettings":null,"siteCurrentLanguage":null};
+window["Profile"] = {"profile":{"business":"V\u00e4stsvenska Squashf\u00f6rbundet","headline":"","strapline":"","companydescription":"V\u00e4stsvenska Squashf\u00f6rbundet jobbar med att hj\u00e4lpa f\u00f6reningar och spelare i V\u00e4stsverige med att utveckla sin verksamhet och sig sj\u00e4lva.","copyright":"","address":"Kapellplatsen 4","address1":"G\u00f6teborg","address2":"","postalcode":"41131","country":"Sweden","phone":"","twitter":"","linkedin":"","facebook":"","googleplus":"","youtube":"","rss":"","logo":"http:\/\/files.builder.misssite.com\/ab\/80\/ab802724-11e8-4330-bb3c-ca4ef0a78645.png","logowidth":"1249","logoheight":"390","yelpbusinessid":"","featureimage":"","category":"","keywords":"","type":"","websiteType":"localBusiness","websiteContentCategory":"sportsActivity","countryCode":"SE","instagram":"","pinterest":"","vkontakte":"","xing":""}};
+</script>
+
+<script nonce="">
+    Server.components = {"page-zones__header":{"ref":"10213770","uniqueHTMLId":"page-zones__header","name":"header","fixed":false,"libraryItemRef":"0","pageRef":null,"temporary":{},"changed":{},"type":"widget.template","data":[],"className":"template","widget":{},"uniqueId":"BTLVOmWDtBrWNbD","parentUniqueId":null},"page-zones__header-widgets__61c08b50b88aa":{"ref":"10213773","uniqueHTMLId":"page-zones__header-widgets__61c08b50b88aa","name":"61c08b50b88aa","fixed":false,"libraryItemRef":"0","pageRef":null,"temporary":{},"changed":{},"type":"widget.row","data":{"backgroundType":"color","height":"thin","horizontalAlignment":"center","width":"contained","style":"light","verticalAlignment":"center","rowType":"navigation-2","originalRowTemplateId":"navigation_2"},"className":"row","widget":{},"uniqueId":"JIMS1ClRIVdqbue","parentUniqueId":"BTLVOmWDtBrWNbD"},"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c":{"ref":"10213774","uniqueHTMLId":"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c","name":"61c08b50bf47c","fixed":false,"libraryItemRef":"0","pageRef":null,"temporary":{},"changed":{},"type":"widget.responsivecolumns","data":{"columns":"2"},"className":"responsivecolumns","widget":{},"uniqueId":"meSxXpwGfF0lZLd","parentUniqueId":"JIMS1ClRIVdqbue"},"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c0995":{"ref":"10213775","uniqueHTMLId":"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c0995","name":"61c08b50c0995","fixed":false,"libraryItemRef":"0","pageRef":null,"temporary":{},"changed":{},"type":"widget.columns.column","data":[],"className":"columns.column","widget":{},"uniqueId":"mFT5a6QvVC1ht8P","parentUniqueId":"meSxXpwGfF0lZLd"},"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c0995-widgets__61c08b50c15e9":{"ref":"10213776","uniqueHTMLId":"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c0995-widgets__61c08b50c15e9","name":"61c08b50c15e9","fixed":false,"libraryItemRef":"0","pageRef":null,"temporary":{},"changed":{},"type":"widget.companybrand","data":{"horizontalAlignment":"left","contentType":"logo","uniqueId":"IauyROchdEriLG8","maxHeight":"120"},"className":"companybrand","widget":{},"uniqueId":"IauyROchdEriLG8","parentUniqueId":"mFT5a6QvVC1ht8P"},"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c33f9":{"ref":"10213777","uniqueHTMLId":"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c33f9","name":"61c08b50c33f9","fixed":false,"libraryItemRef":"0","pageRef":null,"temporary":{},"changed":{},"type":"widget.columns.column","data":[],"className":"columns.column","widget":{},"uniqueId":"qkoKYDVW8MaCBZS","parentUniqueId":"meSxXpwGfF0lZLd"},"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c33f9-widgets__61c08b50c4067":{"ref":"10213778","uniqueHTMLId":"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c33f9-widgets__61c08b50c4067","name":"61c08b50c4067","fixed":false,"libraryItemRef":"0","pageRef":null,"temporary":{},"changed":{},"type":"widget.extendednavigation","data":{"align":"right"},"className":"extendednavigation","widget":{},"uniqueId":"bUJlRieoIlT3arO","parentUniqueId":"qkoKYDVW8MaCBZS"},"page-zones__main":{"ref":"10214036","uniqueHTMLId":"page-zones__main","name":"main","fixed":false,"libraryItemRef":"0","pageRef":"771715","temporary":{},"changed":{},"type":"widget.template","data":[],"className":"template","widget":{},"uniqueId":"UQdSJEjH42xSjh1","parentUniqueId":null},"page-zones__main-widgets__61c0915837077":{"ref":"10214053","uniqueHTMLId":"page-zones__main-widgets__61c0915837077","name":"61c0915837077","fixed":false,"libraryItemRef":"0","pageRef":"771715","temporary":{},"changed":{},"type":"widget.row","data":{"rowType":"text-7a","backgroundType":"color","style":"light","height":"default","width":"contained","horizontalAlignment":"center","verticalAlignment":"top","layout":"text-7a","originalRowTemplateId":"text_7a"},"className":"row","widget":{},"uniqueId":"HQA4yYTrZ92TIYF","parentUniqueId":"UQdSJEjH42xSjh1"},"page-zones__main-widgets__61c0915837077-widgets__61c091584a256":{"ref":"10214054","uniqueHTMLId":"page-zones__main-widgets__61c0915837077-widgets__61c091584a256","name":"61c091584a256","fixed":false,"libraryItemRef":"0","pageRef":"771715","temporary":{},"changed":{},"type":"widget.contentgroup","data":{"displayImage":"false","contentLayout":"regular","alignmentClass":"center","displayHeading":"false","displayParagraph":"true","bodyContent":"Uppdateras snart.","uniqueId":"s4g0LJJpxgIHhGU","description":"assets","linkUrl":"none","target":"none","action":"none","scale":"original","imageWidth":"auto","alt":"","title":"assets","align":"widget-align-left","paragraphType":"p"},"className":"contentgroup","widget":{},"uniqueId":"s4g0LJJpxgIHhGU","parentUniqueId":"HQA4yYTrZ92TIYF"},"page-zones__footer":{"ref":"10213771","uniqueHTMLId":"page-zones__footer","name":"footer","fixed":false,"libraryItemRef":"0","pageRef":null,"temporary":{},"changed":{},"type":"widget.template","data":[],"className":"template","widget":{},"uniqueId":"ysmv2M1JqgEbJOW","parentUniqueId":null},"page-zones__footer-widgets__61c08b50c5b41":{"ref":"10213779","uniqueHTMLId":"page-zones__footer-widgets__61c08b50c5b41","name":"61c08b50c5b41","fixed":false,"libraryItemRef":"0","pageRef":null,"temporary":{},"changed":{},"type":"widget.row","data":{"backgroundType":"color","height":"thin","horizontalAlignment":"center","width":"contained","style":"dark","verticalAlignment":"center","rowType":"footer-5","originalRowTemplateId":"footer_5"},"className":"row","widget":{},"uniqueId":"q8GJWYZbbxowat3","parentUniqueId":"ysmv2M1JqgEbJOW"},"page-zones__footer-widgets__61c08b50c5b41-widgets__61c08b50cb36f":{"ref":"10213780","uniqueHTMLId":"page-zones__footer-widgets__61c08b50c5b41-widgets__61c08b50cb36f","name":"61c08b50cb36f","fixed":false,"libraryItemRef":"0","pageRef":null,"temporary":{},"changed":{},"type":"widget.contentgroup","data":{"contentLayout":"regular","alignmentClass":"center","displayParagraph":"true","bodyContent":"\u00a9 All rights reserved"},"className":"contentgroup","widget":{},"uniqueId":"lhMOY8yC4akiiYR","parentUniqueId":"q8GJWYZbbxowat3"},"page-zones__footer-widgets__61c08b50c5b41-widgets__61c08b50cec30":{"ref":"10213781","uniqueHTMLId":"page-zones__footer-widgets__61c08b50c5b41-widgets__61c08b50cec30","name":"61c08b50cec30","fixed":false,"libraryItemRef":"0","pageRef":null,"temporary":{},"changed":{},"type":"widget.policypages","data":{"align":"widget-align-center"},"className":"policypages","widget":{},"uniqueId":"vvCAu6A3dIoNWqE","parentUniqueId":"q8GJWYZbbxowat3"}};
+    Server.desktopSite.getPrimaryDomainData = function ()
+    {
+        var keys = [],
+            key = null,
+            domain = null;
+
+        if (this.primaryDomain !== null)
+        {
+            domain = this.primaryDomain.domainName;
+        }
+        else
+        {
+            bk$.each(this.domains, function(key)
+            {
+                keys.push(parseInt(key, 10));
+            });
+
+            key = Math.max.apply(null, keys);
+            domain = this.domains[key] || null;
+        }
+
+        return {
+            key : key,
+            domain: domain
+        };
+    };
+    Server.desktopSite.getPrimaryDomain = function ()
+    {
+        return this.getPrimaryDomainData().domain;
+    };
+    Server.customWidgetsDomain = '';
+    Server.customWidgetVersions = null;
+    Server.connect = {};
+    Server.connect.bookings = {};
+    Server.connect.bookings.activeServices = null;
+    Server.connect.bookings.service = null;
+</script>
+
+<script src="https://55b558c7-resources.builder.misssite.com/7845169/en/translations.js?sections=widgets,mobile,shared_views,shared_components"></script>
+
+
+    <script src="https://55b558c7-resources.builder.misssite.com/86087e4ddb/compiled/published-v10-site-libs.js"></script>
+
+    
+    
+    <script src="https://55b558c7-resources.builder.misssite.com/86087e4ddb/compiled/published-v8-site.js"></script>
+
+
+<script src="https://55b558c7-resources.builder.misssite.com/86087e4ddb/compiled/twig-widget-views-v2.js"></script>
+
+    
+<script nonce="">
+(function () {
+
+    fallback = 1;
+
+    if (!'localStorage' in window ||
+        !'querySelectorAll' in window ||
+        !'addEventListener' in window
+    ) {
+        return;
+    }
+
+    function getFormat(ua) {
+        if (ua.indexOf('android') > -1 && ua.indexOf('chrome') === -1) {
+            return 'ttf';
+        }
+
+        return 'woff';
+    }
+
+    function removeObsoleteFontsFromStorage(storageKey) {
+        var prefix;
+
+        if (!window.localStorage) {
+            return;
+        }
+
+        prefix = storageKey + '.' + window.localStorage.getItem('bk.webfonts.format');
+        try {
+            for (key in window.localStorage) {
+                if (key.indexOf(storageKey) === 0) {
+                    removeStorageItem(key, prefix)
+                }
+            }
+        } catch (ex) {
+        }
+    }
+
+    function removeStorageItem(storageKey, prefix) {
+        var font,
+            remove = true,
+            fontCollections = document.head.querySelectorAll('.js-webfont');
+
+        for (var i = fontCollections.length - 1; i >= 0; --i) {
+            font = prefix + '.' + fontCollections[i].getAttribute('data-name');
+            if (storageKey.indexOf(font) === 0) {
+                remove = false;
+            }
+        }
+
+        if (remove == true) {
+            try {
+                window.localStorage.removeItem(storageKey);
+            } catch (ex) {
+            }
+        }
+    }
+
+    function loadFontAsynchronously(fontUrl) {
+        var head = document.getElementsByTagName('head')[0],
+            link = document.createElement('link');
+
+        link.rel = 'stylesheet';
+        link.href = fontUrl;
+        head.appendChild(link);
+    }
+
+    window.addEventListener('load', function () {
+        var i,
+            localKey = 'published',
+            storageKey = 'bk.webfonts.' + localKey,
+            format,
+            fontCollections,
+            collection,
+            request;
+
+        removeObsoleteFontsFromStorage(storageKey);
+
+        fontCollections = document.head.querySelectorAll('.js-webfont:not([data-cache-full="data-cache-full"])');
+        if (fontCollections.length === 0) {
+            return;
+        }
+
+        format = getFormat(navigator.userAgent);
+        try {
+            window.localStorage.setItem('bk.webfonts.format', format);
+        } catch (ex) {
+        }
+
+        for (i = fontCollections.length - 1; i >= 0; --i) {
+            fontCollection = fontCollections[i];
+            (function(collection) {
+                var json,
+                    font,
+                    content,
+                    fonts = [];
+
+                request = new XMLHttpRequest();
+                request.open('GET', collection.getAttribute('data-' + format + '-cache'), true);
+                request.onload = function () {
+                    if (this.status === 200) {
+                        try {
+
+                            json = JSON.parse(this.response);
+                            for (font = json.length - 1; font >= 0; --font) {
+                                fonts.push(json[font].css);
+                            }
+                            content = fonts.join('');
+                            collection.innerHTML = content;
+                            window.localStorage.setItem(
+                                storageKey + '.' + format + '.' + collection.getAttribute('data-name'), content
+                            );
+                            collection.setAttribute('data-cache-full', 'data-cache-full');
+                        } catch (ex) {
+                        }
+                    }
+
+                    if (fallback && this.status === 404) {
+                        loadFontAsynchronously(collection.getAttribute('data-fallback-stylesheet'));
+                    }
+                };
+                request.send();
+            })(fontCollection);
+        }
+    }, false);
+}());
+</script>
+
+    <script nonce="">
+    (function () {
+        Server.widgetsOnPage = [{"className":"template","data":{},"fixed":false,"isInRow":false,"isNew":false,"isTemplateWidget":false,"name":"header","pageRef":null,"parentUniqueId":null,"ref":"10213770","type":"widget.template","uniqueHTMLId":"page-zones__header","uniqueId":"BTLVOmWDtBrWNbD","isZone":true,"parentZone":null,"zoneName":"header"},{"className":"row","data":{"backgroundType":"color","height":"thin","horizontalAlignment":"center","width":"contained","style":"light","verticalAlignment":"center","rowType":"navigation-2","originalRowTemplateId":"navigation_2"},"fixed":false,"isInRow":false,"isNew":false,"isTemplateWidget":false,"name":"61c08b50b88aa","pageRef":null,"parentUniqueId":"BTLVOmWDtBrWNbD","ref":"10213773","type":"widget.row","uniqueHTMLId":"page-zones__header-widgets__61c08b50b88aa","uniqueId":"JIMS1ClRIVdqbue","isZone":false,"parentZone":"header","zoneName":null},{"className":"responsivecolumns","data":{"columns":"2"},"fixed":false,"isInRow":true,"isNew":false,"isTemplateWidget":false,"name":"61c08b50bf47c","pageRef":null,"parentUniqueId":"JIMS1ClRIVdqbue","ref":"10213774","type":"widget.responsivecolumns","uniqueHTMLId":"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c","uniqueId":"meSxXpwGfF0lZLd","isZone":false,"parentZone":"header","zoneName":null},{"className":"columns-two-left","data":{},"fixed":false,"isInRow":true,"isNew":false,"isTemplateWidget":false,"name":"61c08b50c0995","pageRef":null,"parentUniqueId":"meSxXpwGfF0lZLd","ref":"10213775","type":"widget.columns.column","uniqueHTMLId":"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c0995","uniqueId":"mFT5a6QvVC1ht8P","isZone":false,"parentZone":"header","zoneName":null},{"className":"companybrand","data":{"horizontalAlignment":"left","contentType":"logo","uniqueId":"IauyROchdEriLG8","maxHeight":"120"},"fixed":false,"isInRow":true,"isNew":false,"isTemplateWidget":false,"name":"61c08b50c15e9","pageRef":null,"parentUniqueId":"mFT5a6QvVC1ht8P","ref":"10213776","type":"widget.companybrand","uniqueHTMLId":"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c0995-widgets__61c08b50c15e9","uniqueId":"IauyROchdEriLG8","isZone":false,"parentZone":"header","zoneName":null},{"className":"columns-two-right","data":{},"fixed":false,"isInRow":true,"isNew":false,"isTemplateWidget":false,"name":"61c08b50c33f9","pageRef":null,"parentUniqueId":"meSxXpwGfF0lZLd","ref":"10213777","type":"widget.columns.column","uniqueHTMLId":"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c33f9","uniqueId":"qkoKYDVW8MaCBZS","isZone":false,"parentZone":"header","zoneName":null},{"className":"extendednavigation","data":{"align":"right"},"fixed":false,"isInRow":true,"isNew":false,"isTemplateWidget":false,"name":"61c08b50c4067","pageRef":null,"parentUniqueId":"qkoKYDVW8MaCBZS","ref":"10213778","type":"widget.extendednavigation","uniqueHTMLId":"page-zones__header-widgets__61c08b50b88aa-widgets__61c08b50bf47c-zones__61c08b50c33f9-widgets__61c08b50c4067","uniqueId":"bUJlRieoIlT3arO","isZone":false,"parentZone":"header","zoneName":null},{"className":"template","data":{},"fixed":false,"isInRow":false,"isNew":false,"isTemplateWidget":false,"name":"main","pageRef":"771715","parentUniqueId":null,"ref":"10214036","type":"widget.template","uniqueHTMLId":"page-zones__main","uniqueId":"UQdSJEjH42xSjh1","isZone":true,"parentZone":null,"zoneName":"main"},{"className":"row","data":{"rowType":"text-7a","backgroundType":"color","style":"light","height":"default","width":"contained","horizontalAlignment":"center","verticalAlignment":"top","layout":"text-7a","originalRowTemplateId":"text_7a"},"fixed":false,"isInRow":false,"isNew":false,"isTemplateWidget":false,"name":"61c0915837077","pageRef":"771715","parentUniqueId":"UQdSJEjH42xSjh1","ref":"10214053","type":"widget.row","uniqueHTMLId":"page-zones__main-widgets__61c0915837077","uniqueId":"HQA4yYTrZ92TIYF","isZone":false,"parentZone":"main","zoneName":null},{"className":"contentgroup","data":{"displayImage":"false","contentLayout":"regular","alignmentClass":"center","displayHeading":"false","displayParagraph":"true","bodyContent":"Uppdateras snart.","uniqueId":"s4g0LJJpxgIHhGU","description":"assets","linkUrl":"none","target":"none","action":"none","scale":"original","imageWidth":"auto","alt":"","title":"assets","align":"widget-align-left","paragraphType":"p"},"fixed":false,"isInRow":true,"isNew":false,"isTemplateWidget":false,"name":"61c091584a256","pageRef":"771715","parentUniqueId":"HQA4yYTrZ92TIYF","ref":"10214054","type":"widget.contentgroup","uniqueHTMLId":"page-zones__main-widgets__61c0915837077-widgets__61c091584a256","uniqueId":"s4g0LJJpxgIHhGU","isZone":false,"parentZone":"main","zoneName":null},{"className":"template","data":{},"fixed":false,"isInRow":false,"isNew":false,"isTemplateWidget":false,"name":"footer","pageRef":null,"parentUniqueId":null,"ref":"10213771","type":"widget.template","uniqueHTMLId":"page-zones__footer","uniqueId":"ysmv2M1JqgEbJOW","isZone":true,"parentZone":null,"zoneName":"footer"},{"className":"row","data":{"backgroundType":"color","height":"thin","horizontalAlignment":"center","width":"contained","style":"dark","verticalAlignment":"center","rowType":"footer-5","originalRowTemplateId":"footer_5"},"fixed":false,"isInRow":false,"isNew":false,"isTemplateWidget":false,"name":"61c08b50c5b41","pageRef":null,"parentUniqueId":"ysmv2M1JqgEbJOW","ref":"10213779","type":"widget.row","uniqueHTMLId":"page-zones__footer-widgets__61c08b50c5b41","uniqueId":"q8GJWYZbbxowat3","isZone":false,"parentZone":"footer","zoneName":null},{"className":"contentgroup","data":{"contentLayout":"regular","alignmentClass":"center","displayParagraph":"true","bodyContent":"\u00a9 All rights reserved"},"fixed":false,"isInRow":true,"isNew":false,"isTemplateWidget":false,"name":"61c08b50cb36f","pageRef":null,"parentUniqueId":"q8GJWYZbbxowat3","ref":"10213780","type":"widget.contentgroup","uniqueHTMLId":"page-zones__footer-widgets__61c08b50c5b41-widgets__61c08b50cb36f","uniqueId":"lhMOY8yC4akiiYR","isZone":false,"parentZone":"footer","zoneName":null},{"className":"policypages","data":{"align":"widget-align-center"},"fixed":false,"isInRow":true,"isNew":false,"isTemplateWidget":false,"name":"61c08b50cec30","pageRef":null,"parentUniqueId":"q8GJWYZbbxowat3","ref":"10213781","type":"widget.policypages","uniqueHTMLId":"page-zones__footer-widgets__61c08b50c5b41-widgets__61c08b50cec30","uniqueId":"vvCAu6A3dIoNWqE","isZone":false,"parentZone":"footer","zoneName":null}];
+
+        jQuery.noConflict(true);
+        bk$(document).ready(function () {
+            ProfileModel = new BaseKit.Globals.Profile(Profile.profile);
+            Site.load();
+        });
+    }());
+</script>
+    <script src="https://55b558c7-resources.builder.misssite.com/86087e4ddb/compiled/scroll-out.js" nonce=""></script>
+
+    <script nonce="">
+        ScrollOut({
+            targets: ".row--scroll-effect",
+            threshold: 0,
+            cssProps: {
+                visibleY: true
+            }
+        });
+    </script>
+
+    <script nonce="">
+        window.addEventListener('DOMContentLoaded', function() {
+
+            const scrollOut = ScrollOut({
+                once: true,
+                targets: ".widget--animation",
+                threshold: 0,
+                cssProps: {
+                    visible: true,
+                }
+            });
+
+            window.setTimeout(function() {
+                scrollOut.index();
+                scrollOut.update();
+            });
+        });
+
+        (function() {
+            var isSafari = navigator.vendor && navigator.vendor.indexOf('Apple') > -1 &&
+                navigator.userAgent &&
+                navigator.userAgent.indexOf('CriOS') === -1 &&
+                navigator.userAgent.indexOf('FxiOS') === -1;
+
+            var windowScrollHandler = function() {
+                var animationNodes = document.querySelectorAll('.js-row .widget--animation[style]');
+                Array.prototype.forEach.call(animationNodes, function (node) {
+                    var style = node.getAttribute('style');
+                    var scroll = node.getAttribute('data-scroll');
+                    var shouldShowNode = style !== null && style.indexOf('--visible: 1;') !== -1;
+
+                    if (shouldShowNode && (scroll === null || scroll === 'out')) {
+                        node.setAttribute('data-scroll', 'in');
+                    }
+                });
+            };
+
+            if (isSafari) {
+                window.addEventListener('scroll', windowScrollHandler);
+                setTimeout(windowScrollHandler, 1000);
+            }
+        }());
+    </script>
+
+
+
+    
+    
+
+        <!-- Navigation Toggle -->
+        <script>
+            var navigationToggle = document.querySelector('.navigation-toggle');
+            navigationToggle.addEventListener('click', function () {
+                document.body.classList.toggle('navigation-open');
+            });
+        </script>
+
+        <!-- Page Specific Scripts -->
+        
+    </body>
+</html>

@@ -1,0 +1,4 @@
+Sitemap: https://squashvast.se/sitemap.xml
+
+User-agent: *
+Crawl-Delay: 30
